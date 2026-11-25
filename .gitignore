@@ -1,0 +1,14 @@
+out/
+data/*.csv
+!templates/video-log.csv
+!examples/*.csv
+briefs/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.mp4
+*.wav
+*.jpg
+*.png
+!docs/*.png

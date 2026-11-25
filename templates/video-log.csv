@@ -1,0 +1,2 @@
+video_id,page,date,format,style,hook_pattern,hook_text,substrate,duration_s,cost_usd,views,ret_3s_pct,shares,saves,profile_visits,link_clicks,installs,revenue_usd,notes
+EP001,example,2026-01-01,explainer,flat-2d,11_big_number,"The number is 40%",code,38,3.20,41200,71.0,180,540,1900,410,19,570,

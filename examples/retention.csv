@@ -1,0 +1,8 @@
+video_id,t,retention,hook_pattern
+EP001,0,100,big_number
+EP001,1.5,88,big_number
+EP001,3,87,big_number
+EP001,4.5,86,
+EP001,6,70,
+EP001,7.5,69,
+EP001,10,55,

@@ -1,0 +1,5 @@
+video_id,page,date,format,style,hook_pattern,hook_text,substrate,duration_s,cost_usd,views,ret_3s_pct,shares,saves,profile_visits,link_clicks,installs,revenue_usd,notes
+EP001,alpha,2026-01-01,explainer,flat,11_big_number,40%,code,30,3.20,41200,71.0,180,540,1900,410,19,570,
+EP002,alpha,2026-01-02,explainer,flat,08_everyone_wrong,x,code,30,3.10,8800,64.0,40,90,300,28,1,30,
+EP003,alpha,2026-01-03,explainer,flat,11_big_number,40%,code,30,2.90,51000,73.0,220,600,2100,520,24,720,
+EP004,beta,2026-01-04,cartoon,3d,04_question,?,gen,28,41.00,152000,68.0,900,2400,5100,610,11,330,
